@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Data Scientist | Machine Learning Engineer | AI Engineer | Cloud Enthusiast<br>🎓 M.S. in Data Science & Analytics @ SUNY Polytechnic Institute<br>💡 Building AI, ML, Deep Learning & Cloud Solutions<br>☁️ AWS • Azure • GCP • Oracle • Python • R • SQL • TensorFlow • PyTorch<br>📊 Turning data into actionable insights
+# About Me:
+- Data Scientist | Machine Learning Engineer | AI Engineer | Cloud Enthusiast<br> - M.S. in Data Science & Analytics @ SUNY Polytechnic Institute<br> - Building AI, ML, Deep Learning & Cloud Solutions<br>☁️ AWS • Azure • GCP • Oracle • Python • R • SQL • TensorFlow • PyTorch<br> - Turning data into actionable insights
 
 
 ## 🌐 Socials:
